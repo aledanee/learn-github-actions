@@ -6,11 +6,19 @@ Welcome to **Learn GitHub Actions** – a practical guide to help you master aut
 
 ### 📖 Content Overview
 
-- **01 - Introduction**: Why GitHub Actions? What problems does it solve?
-- **02 - Basics**: Understand workflows, jobs, steps, runners, and YAML syntax.
-- **03 - Advanced Topics**: Matrix builds, reusing workflows, secrets, and caching.
-- **04 - Real Projects**: CI/CD pipelines for websites, npm packages, and Docker.
-- **05 - Troubleshooting**: Common errors and how to fix them.
+- **01 - [Introduction](01-introduction.md): Why GitHub Actions? What problems does it solve?
+- **02 - [Basics](02-basics.md): Understand workflows, jobs, steps, runners, and YAML syntax.
+- **03 - [Advanced Concepts](03-advanced.md): Matrix builds, reusing workflows, secrets, and caching.
+- **04 - [Real Projects](04-real-projects.md): CI/CD pipelines for websites, npm packages, and Docker.
+- **05 - [Troubleshooting](05-troubleshooting.md): Common errors and how to fix them.
+
+
+- [Introduction](01-introduction.md)
+- [Basics](02-basics.md)
+- [Advanced Concepts](03-advanced.md)
+- [Real Projects](04-real-projects.md)
+- [Troubleshooting](05-troubleshooting.md)
+
 
 ---
 
